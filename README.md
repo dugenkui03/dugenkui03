@@ -23,7 +23,7 @@
 
 
 #### 🏆 荣誉和 技术传播
-- 快手电商和本地生活2021年第三季度 [极致技术奖](https://github.com/graphql-calculator/graphql-calculator/blob/main/static/awards_ks.jpg) 获得者 
+- 获得快手电商和本地生活2021年第三季度 [极致技术奖](https://github.com/graphql-calculator/graphql-calculator/blob/main/static/awards_ks.jpg)
 - [如何为GraphQL系统构建与Schema解耦的高性能计算层](https://mp.weixin.qq.com/s/cwtKxuE5yHD1_kxejrV9Cw)
 - [如何优雅地扩展 GraphQL 系统能力](https://mp.weixin.qq.com/s/gb4VmvPaBeq8fxRx1A-qAA)
 
