@@ -11,7 +11,7 @@
 #### 👷🏻‍♂️ 开源贡献
 
 ##### GraphQL 社区
-- GraphQL Java 核心包源码活跃贡献者，补全了语法校验、变量指令和重复指令等重要特性，Merged 到主干的全部代码见 [<汇总>](https://github.com/graphql-java/graphql-java/graphs/contributors?from=2020-03-02&to=2022-04-19&type=c)。此外对 graphql-java-dataLoader 和 spring-graphql 均有贡献；
+- GraphQL Java 核心包源码活跃贡献者，Merged 到主干的全部代码见 [**graphql-java-all**](https://github.com/graphql-java/graphql-java/graphs/contributors?from=2020-03-02&to=2022-04-19&type=c)，包括完善语法校验、支持变量指令和支持重复指令等多个重要特性；
 > 该组件是 GraphQL 的 jvm 语言实现，作为业界标准被 Spring、Apache 和 Netflix 等开源组织项目使用。
 
 ##### rocketMQ 和 Spring 社区
