@@ -4,7 +4,7 @@
 
 #### ⚙ GraphQL Calculator 作者
 - 详情见 [GraphQL Calculator README](https://github.com/graphql-calculator/graphql-calculator)：该组件基于指令和表达式，在graphql查询中对数据进行动态加工、编排，包括数据计算、列表排序过滤、参数处理和依赖编排等，配置即生效，无需重启服务应用
-
+- 该项目在 快手、瑞幸、贝壳等公司均有落地使用
 - 项目被 [GraphQL官网](https://graphql.org/code/#java-kotlin) 收录，并在 infoQ 官网和官方微信公众号发表相关的技术文章 [<如何优雅地扩展 GraphQL 系统能力>](https://mp.weixin.qq.com/s/gb4VmvPaBeq8fxRx1A-qAA)
 
 
